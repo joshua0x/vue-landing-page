@@ -5,8 +5,8 @@
     <div class="container mx-auto px-5 overflow-x-hidden lg:overflow-x-visible">
         <section class="grid grid-cols-none lg:grid-cols-2 pb-16 pt-8 items-center">
             <div class="lg:w-5/6 order-2 lg:order-none">
-                <h1 class="text-4xl xl:text-5xl font-bold font-theme-heading text-center lg:text-left">A Simple Bookmark Manager</h1>
-                <p class="lg:text-xl mt-10 font-theme-content text-theme-grayish-blue text-center lg:text-left">A clean and simple interface to organize your favourite websites. Open a new browser tab and see your sites load instantly. Try it for free.</p>
+                <h1 class="text-4xl xl:text-5xl font-bold font-theme-heading text-center lg:text-left">A Simple twitter post Manager</h1>
+                <p class="lg:text-xl mt-10 font-theme-content text-theme-grayish-blue text-center lg:text-left">Our tool provides the ability to quickly delete Twitter posts with a single click, and it also offers filtering options based on the timeline.. Try it.</p>
                 <div class="flex justify-center lg:justify-start mt-10">
                     <LinkButton btn-type="primary" link="#download-section">Get It On Chrome</LinkButton>
                     <LinkButton btn-type="muted" link="#download-section">Get It On Firefox</LinkButton>

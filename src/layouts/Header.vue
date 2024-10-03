@@ -12,9 +12,9 @@
     <!-- Navbar Start -->
     <div class="container mx-auto px-5">
         <header class="flex justify-between py-12 items-center">
-            <div>
+     <!--        <div>
                 <a href="/"><img src="/images/logo-bookmark.svg" alt="Site Logo"></a>
-            </div>
+            </div> -->
             
             <nav class="flex justify-end flex-col md:flex-row">
                 <!-- Menu Toggler -->
