@@ -6,6 +6,8 @@ import Legal from "../sections/Legal.vue";
 
 import FaqSection from "../sections/FaqSection.vue";
 import SubscribeSection from "../sections/SubscribeSection.vue";
+import PricingPage from "../sections/PricingPage.vue";
+
 </script>
 
 <template>
@@ -19,4 +21,5 @@ import SubscribeSection from "../sections/SubscribeSection.vue";
     <FaqSection />
 
     <SubscribeSection />
+    <PricingPage />
 </template>
