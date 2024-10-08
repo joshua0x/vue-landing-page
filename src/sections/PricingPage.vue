@@ -180,7 +180,7 @@ const pricingTiers = [
   {
     name: 'Free',
     id: '0',
-    href: '/subscribe',
+    href: '/#subscribe',
     price: { '1': '$0' },
     discountPrice: { '1': '' },
     description: `Can only use one time`,
@@ -195,7 +195,7 @@ const pricingTiers = [
   {
     name: 'Yearly',
     id: '1',
-    href: '/subscribe',
+    href: '/#subscribe',
     price: { '1': '$3.99' },
     discountPrice: { '1': '' },
     description: `All functions available`,
